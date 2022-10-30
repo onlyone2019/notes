@@ -14,7 +14,7 @@ docker run -t --rm -p 8501:8501 \
 
 模型预测：
 
-![图片]()
+![图片](https://github.com/onlyone2019/notes/blob/master/pictures/TF-serving_demo.png)
 
 [参考](https://tensorflow.google.cn/tfx/serving/docker?hl=zh-cn)
 
@@ -26,4 +26,4 @@ docker run -t --rm -p 8501:8501 \
 
 查看模型是否部署成功：
 
-![图片]()
+![图片](https://github.com/onlyone2019/notes/blob/master/pictures/TF-serving_firstModel.png)
